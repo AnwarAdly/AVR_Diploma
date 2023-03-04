@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508874164 source:c:\users\fekry_pc\desktop\amit lecs\2_intro to c proramming\session c examples\hospital system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
